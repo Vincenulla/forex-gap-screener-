@@ -1,0 +1,46 @@
+# config.yaml
+pairs:
+  - EURUSD=X
+  - GBPUSD=X
+  - USDJPY=X
+  - AUDUSD=X
+  - USDCAD=X
+  - USDCHF=X
+  - NZDUSD=X
+  - EURGBP=X
+  - EURJPY=X
+  - GBPJPY=X
+  - EURAUD=X
+  - EURNZD=X
+  - GBPAUD=X
+  - AUDJPY=X
+  - CADJPY=X
+  - CHFJPY=X
+  - USDSGD=X
+  - USDHKD=X
+  - USDMXN=X
+  - USDZAR=X
+  - EURCHF=X
+  - AUDCAD=X
+  - AUDCHF=X
+  - AUDJPY=X
+  - AUDNZD=X
+  - CADCHF=X
+  - EURCAD=X
+  - GBPCAD=X
+  - GBPCHF=X
+  - GBPNZD=X
+  - NZDCAD=X
+  - NZDCHF=X
+  - NZDJPY=X
+  - NZDUSD=X
+  - USDCNH=X
+  - USDSEK=X
+  - USDNOK=X
+  - USDTRY=X
+  - USDZAR=X
+
+smtp:
+  # On utilisera les valeurs SMTP depuis les Secrets / ENV
+  from_email: ""
+  to_email: ""

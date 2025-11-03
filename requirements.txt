@@ -1,0 +1,5 @@
+yfinance==0.2.31
+pandas==2.2.2
+pyyaml==6.0
+pytz==2024.7
+python-dateutil==2.8.2
